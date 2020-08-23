@@ -1,7 +1,7 @@
 # ArgonAssault
 This is a 3D rail shooter inspired by such classics as Star Fox 64 and Panzer Dragoon.
 
-This is the forth section of the [Complete Unity Developer 2.0 course](https://www.udemy.com/unitycourse2).
+This is the fourth section of the [Complete Unity Developer 2.0 course](https://www.udemy.com/unitycourse2).
 
 
 ## Game Design
